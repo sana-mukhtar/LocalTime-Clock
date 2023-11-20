@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&family=McLaren&display=swap");
+
+body {
+  color: #bea40c;
+  background-image: url("https://img.freepik.com/free-vector/gradient-black-backgrounds-with-golden-frames_23-2149150610.jpg?w=1060&t=st=1700494144~exp=1700494744~hmac=26c4308846c2127bc11c5d8c890a396cd6054e30654250ea4969b33008f97baf");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding: 230px 50px;
+  text-align: center;
+  font-family: "McLaren";
+}
+
+h1 {
+  font-size: 6em;
+}
+
+button {
+  display: inline;
+  background-color: grey;
+  border: 1px solid black;
+  border-radius: 10px;
+  box-shadow: 7px;
+  margin: 10px;
+  text-align: center;
+  color: black;
+  font-weight: bold;
+  font-size: 50px;
+}
